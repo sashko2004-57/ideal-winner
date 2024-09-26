@@ -1,2 +1,2 @@
 # Lab 1 OOP
-Laboratory work on the Object-oriented programming discipline
+Laboratory work 1 on the Object-oriented programming discipline
